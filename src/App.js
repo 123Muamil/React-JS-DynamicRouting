@@ -1,9 +1,9 @@
 import React from 'react'
-import Home from './Components/Home'
+import EmailJs from './EmailJS/EmailJs'
 const App = () => {
   return (
     <div>
-     <Home/>
+      <EmailJs/>
     </div>
   )
 }
